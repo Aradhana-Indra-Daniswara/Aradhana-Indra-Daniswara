@@ -1,8 +1,11 @@
-# 👋 Hi, I’m Aradhana Indra Daniswara
+# 👋 Hi! Call me Indra.
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+## Reach Me
+- Email: aradhana.indra@binus.ac.id
+- Instagram: @vouressen
 
 
