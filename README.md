@@ -1,11 +1,9 @@
 # 👋 Hi! Call me Indra.
+- I'm interested in Frontend Software Development using ReactJS ⚛️
+- Codecademy is my go to website for learning 😉
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-
-## Reach Me
+## Reach me! Let's build something together.
 - Email: aradhana.indra@binus.ac.id
-- Instagram: @vouressen
+- Instagram: [@vouressen](https://www.instagram.com/vouressen/)
 
 
