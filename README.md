@@ -1,5 +1,5 @@
 # 👋 Hi! Call me Indra.
-- I'm interested in Frontend Software Development using ReactJS ⚛️
+- I'm interested in Frontend Software Development using React ⚛️
 - Codecademy is my go to website for learning 😉
 
 ## Reach me! Let's build something together.
